@@ -4,6 +4,6 @@ $AUTOCONFIG = [
   "dbname"	=> "nextcloud",
   "dbtableprefix" => "",
   "adminlogin" => "pcadmin",
-  "adminpass" => "pcadmin",
+  "adminpass" => "start123",
   "directory" => "/var/www/html/data",
 ];

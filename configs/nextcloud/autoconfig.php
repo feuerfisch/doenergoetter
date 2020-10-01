@@ -3,7 +3,7 @@ $AUTOCONFIG = [
   "dbtype"	=> "sqlite",
   "dbname"	=> "nextcloud",
   "dbtableprefix" => "",
-  "adminlogin" => "admin",
-  "adminpass" => "admin",
+  "adminlogin" => "pcadmin",
+  "adminpass" => "pcadmin",
   "directory" => "/var/www/html/data",
 ];
